@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const prefix = "t?";
+const prefix = "f?";
 
 client.on('ready', () => {
 	console.log('Bot has started!');
